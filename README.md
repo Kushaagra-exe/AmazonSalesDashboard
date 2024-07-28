@@ -7,8 +7,8 @@
 
 # Insights from data
 
-_Line Chart_ : Sales by Order Date
-_Tree Map_ : Sales by Category
-_Bar Graph_ : Profit by State
-_Gauge Chart_ : Current Sales by Target
+- _Line Chart_ : Sales by Order Date
+- _Tree Map_ : Sales by Category
+- _Bar Graph_ : Profit by State
+- _Gauge Chart_ : Current Sales by Target
 
